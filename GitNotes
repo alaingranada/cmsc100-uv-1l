@@ -1,0 +1,48 @@
+mkdir my-project
+cd my-project
+git init (ctrl + h to show hidden files)
+
+git status
+
+touch newfile.txt
+
+echo 'Alain Granada' >> newfile.txt
+
+git add -A (add all files in directory)
+
+git commit -m "First commit" (no -m will open new window)
+
+git config user.email "atgranada@up.edu.ph"
+
+git config user.name "alaingranada"
+
+git branch (show all branches)
+
+git branch new-feature (new branch called new feature)
+
+git checkout branch name (go to branch name)
+
+git checkout master (go to master)
+
+
+
+
+
+
+
+
+
+
+> git add -A #adds all changed files to index
+
+>git commit -m "message" #commits all files in index
+
+(working directory is now clean)
+
+
+Branches
+
+>git branch #shows available branches
+>git branch <branch name> switch to branch
+
+git checkout -b <new branch name>

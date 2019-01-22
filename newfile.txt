@@ -1,2 +1,4 @@
 Alain Granada
-hello
+Hello World!
+
+Today's lesson is about git and GitHub
